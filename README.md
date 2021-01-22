@@ -15,11 +15,11 @@
 ## Академия
 
 ## Блоги
-- AstroAlert [![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info)
-- Записки астронома [![Telegram](img/favicons/t.me.png)](https://t.me/astrozapiski)
+- AstroAlert ([![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info))
+- Записки астронома ([![Telegram](img/favicons/t.me.png)](https://t.me/astrozapiski))
 
 ## Сообщества
-- какие-то астрофизические мемы [![Vk](img/favicons/vk.com.png)](https://vk.com/atrphy) — мемы про астрофизику
+- какие-то астрофизические мемы ([![Vk](img/favicons/vk.com.png)](https://vk.com/atrphy)) — мемы про астрофизику
 
 ## Другие списки
 *Аналогичные списки ресурсов по релевантным темам:*
@@ -30,6 +30,6 @@
 - [awesome-astronomy by jonathansick](https://github.com/jonathansick/awesome-astronomy)
 - [awesome-astronomy by mbiesiad](https://github.com/mbiesiad/awesome-astronomy)
 - [awesome-astrodata](https://github.com/gully/awesome-astrodata) — книги и данные для машинного обучения в астрономии
-- [](https://github.com/spacehackersclub/awesome-spacehackers)
+- [awesome-spacehackers](https://github.com/spacehackersclub/awesome-spacehackers)
 - [awesome-spectra](https://github.com/erwanp/awesome-spectra) — полезные ресурсы для спектроскопии
 - [awesome-math](https://github.com/rossant/awesome-math)
