@@ -15,7 +15,7 @@
 ## Академия
 
 ## Блоги
-
+- AstroAlert [![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info)
 - Записки астронома [![Telegram](img/favicons/t.me.png)](https://t.me/astrozapiski)
 
 ## Сообщества
