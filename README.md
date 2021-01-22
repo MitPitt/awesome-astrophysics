@@ -14,8 +14,12 @@
 
 ## Академия
 
+## Корпорации
+- [Роскосмос](https://www.roscosmos.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/roscosmos) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/roscosmosofficial/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/roscosmos))
+- SpaceX
+
 ## Блоги
-- AstroAlert ([![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info))
+- AstroAlert ([![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info) [fb](https://www.facebook.com/astroalert)
 - Записки астронома ([![Telegram](img/favicons/t.me.png)](https://t.me/astrozapiski))
 
 ## Сообщества
