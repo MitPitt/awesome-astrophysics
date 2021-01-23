@@ -160,6 +160,12 @@
   - ⭐️ melodysheep ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/melodysheep)) — Джон Бозвелл создает завораживающие видео про космос с собственной музыкой и компьютерной графикой.
   - Anton Petrov ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/whatdamath)) — Объяснение научных явлений с использованием компьютерных симуляций.
   - Scott Manley ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/szyzyg))
+  - Sixty Symbols ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/sixtysymbols))
+  - Sabine Hossenfelder ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/SabineHossenfelder))
+  - Fraser Cain ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/universetodayvids))
+  - Cool Worlds ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/CoolWorldsLab))
+  - ScienceClic English ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/ScienceClicEN))
+  - SciShow Space ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/scishowspace))
 - [Хаб на Хабре по астрономии](https://habr.com/ru/hub/astronomy/)
 - [Хаб на Хабре по космонавтике](https://habr.com/ru/hub/space/)
 - ⭐️ AstroAlert ([![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astroalert))
