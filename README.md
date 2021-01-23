@@ -5,6 +5,8 @@
 
 ⭐️ = особые рекомендации
 
+❗️ Подпишите [петицию](https://www.change.org/p/государственная-дума-рф-против-поправок-о-просветительской-деятельности-1e6d7a97-a61a-49b9-a7a7-80da49172ccf) против закона о просветительской деятельности ❗️
+
 ## Содержание
 - [Литература](#литература)
 - [Курсы](#курсы)
@@ -26,6 +28,11 @@
 - ["Fundamental Astronomy" Hannu Karttunen](https://www.engineeringbookspdf.com/download/?file=11690)
 - ["Общая Астрофизика" К.А. Постнов, А.В. Засов](https://mipt.ru/upload/medialibrary/d26/general_astrophysics.pdf)
 - ["Общий Курс Астрономии" Э.В. Кононович, В.И. Мороз](https://drive.google.com/file/d/1NpeWGqf_VrjE9W4Mps6QAxZgx4qh9v0E/view)
+- ["Сферическая Астрономия" В.А. Жаров](http://iaaras.ru/media/library/zharov_sf.pdf)
+- "Справочник любителя Астрономии" П.Г. Куликовский
+- "Физика космоса. Маленькая энциклопедия."
+- "Сборник задач по астрономии" В.Г.Сурдин, Б.А.Воронцов-Вельяминов)
+- "Modern Classical Physics" Kip S. Thorne
 - Научные журналы:
   - [AIAA Journal of Guidance, Control and Dynamics](http://arc.aiaa.org/loi/jgcd)
   - [AIAA Journal of Spacecraft and Rockets](http://arc.aiaa.org/loi/jsr)
@@ -44,7 +51,8 @@
 ## Курсы
 Указана общая длительность видеокурса. Не забывайте, что можно смотреть с увеличенной скоростью.
 - Основы астрономии ([openedu.ru](https://openedu.ru/course/msu/BASTRO/), Межфакультетский курс МГУ)
-- Астрофизика (19,7 часов, [teach-in.ru](https://teach-in.ru/course/astrophysics) или [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNC6itqocLoYFMNtt6nHwTBG), ФизФак МГУ)
+- ⭐️ [Курсы лекций Сергея Попова](http://xray.sai.msu.ru/~polar/sci_rev/pop2/popov/)
+  - Астрофизика (19,7 часов, [teach-in.ru](https://teach-in.ru/course/astrophysics) или [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNC6itqocLoYFMNtt6nHwTBG), ФизФак МГУ)
 - Астрофизика. От звезд до границ Вселенной. ([lektorium.tv](https://www.lektorium.tv/astrophysics), Политех Петра)
 - Crash Course Astronomy (9 часов, [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL))
 - Coursera (Когда записались на курс, можно выкачать его с помощью [Coursera Downloader](https://github.com/coursera-dl/coursera-dl)):
@@ -57,13 +65,17 @@
   - [The Science of the Solar System](https://www.coursera.org/learn/solar-system)
   - []
 
-## Высшее образование
+## Высшее образование, Академия
 - [Факультет космических исследований МГУ](https://cosmos.msu.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/cosmos_msu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmAoZPccJssuT7JhX2MKFnA) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/cosmos.msu/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cosmos.msu/))
-- [Физический факультет МГУ]
-- []
+- [Физический факультет МГУ](https://phys.msu.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/ff_mgu)) Астрономическое отделение
+  - [ГАИШ](sai.msu.ru)
+- Кафедра Космической физики МФТИ
+- МатМех СПбГУ, Астрономическое направление (https://school.astro.spbu.ru)
+- ФизФак ВШЭ
 
-## Лектории и музеи
+## Лектории и летние школы
 - [Музей космонавтики](https://kosmo-museum.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/kosmo_museum) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mmkspace/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/kosmomuseum))
+- [Летняя космическая школа](https://space-school.org/)
 
 ## Организации
 - [Роскосмос](https://www.roscosmos.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/roscosmos) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/roscosmosofficial/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/tvroscosmos) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/roscosmos))
@@ -154,7 +166,8 @@
 - #ВКосмосе ([![Vk](img/favicons/vk.com.png)](https://vk.com/space))
 - Открытый космос ([![Vk](img/favicons/vk.com.png)](https://vk.com/space_live) [![Telegram](img/favicons/t.me.png)](https://t.me/ruspacelive) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ruspacelive/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ruspacelive) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/RuSpaceLive))
 - [Астроверты](https://astrovert.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/astrovert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/science.travel/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astrovert.ru))
-- [Зеленый кот](https://zelenyikot.com/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/zelenyi_koteyka) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/zelenyikotspacediscovery) [![YouTube](img/favicons/youtube.com.png)](https://t.me/zelenyikotspace))
+- [Зеленый кот](https://zelenyikot.com/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/zelenyi_koteyka) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/zelenyikotspacediscovery) [![Telegram](img/favicons/t.me.png)](https://t.me/zelenyikotspace))
+- ⭐️ [Сергей Борисович Попов](http://xray.sai.msu.ru/~polar/sci_rev/pop2/popov/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/id6382040) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGk5wyYgpGKuu5Wkjg0WIzQ) [жж](https://sergepolar.livejournal.com/))
 - Записки астронома ([![Telegram](img/favicons/t.me.png)](https://t.me/astrozapiski))
 - Маша и Медведица ([![Telegram](img/favicons/t.me.png)](https://t.me/astromasha))
 - [BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/)
