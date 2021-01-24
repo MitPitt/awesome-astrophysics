@@ -10,8 +10,8 @@
 ## Содержание
 - [Литература](#литература)
 - [Курсы](#курсы)
-- [Высшее образование](#высшее-образование)
-- [Лектории и музеи](#лектории-и-музеи)
+- [Высшее образование](#высшее-образование-академия)
+- [Лектории и музеи](#лектории-и-летние-школы)
 - [Организации](#организации)
 - [Астрономия](#астрономия)
 - [Визуализация](#визуализация)
@@ -25,14 +25,15 @@
 ---
 
 ## Литература
-- ["Fundamental Astronomy" Hannu Karttunen](https://www.engineeringbookspdf.com/download/?file=11690)
-- ["Общая Астрофизика" К.А. Постнов, А.В. Засов](https://mipt.ru/upload/medialibrary/d26/general_astrophysics.pdf)
-- ["Общий Курс Астрономии" Э.В. Кононович, В.И. Мороз](https://drive.google.com/file/d/1NpeWGqf_VrjE9W4Mps6QAxZgx4qh9v0E/view)
-- ["Сферическая Астрономия" В.А. Жаров](http://iaaras.ru/media/library/zharov_sf.pdf)
+- "Fundamental Astronomy" Hannu Karttunen ([pdf](https://www.engineeringbookspdf.com/download/?file=11690))
+- "Общая Астрофизика" К.А. Постнов, А.В. Засов ([pdf](https://mipt.ru/upload/medialibrary/d26/general_astrophysics.pdf))
+- "Общий Курс Астрономии" Э.В. Кононович, В.И. Мороз ([pdf](https://drive.google.com/file/d/1NpeWGqf_VrjE9W4Mps6QAxZgx4qh9v0E/view))
+- "Сферическая Астрономия" В.А. Жаров ([pdf](http://iaaras.ru/media/library/zharov_sf.pdf))
 - "Справочник любителя Астрономии" П.Г. Куликовский
 - "Физика космоса. Маленькая энциклопедия."
-- "Сборник задач по астрономии" В.Г.Сурдин, Б.А.Воронцов-Вельяминов)
+- "Сборник задач по астрономии" В.Г.Сурдин, Б.А.Воронцов-Вельяминов
 - "Modern Classical Physics" Kip S. Thorne
+- ["Astronomy Notes" Nick Strobel](http://www.astronomynotes.com/#details)
 - Научные журналы:
   - [AIAA Journal of Guidance, Control and Dynamics](http://arc.aiaa.org/loi/jgcd)
   - [AIAA Journal of Spacecraft and Rockets](http://arc.aiaa.org/loi/jsr)
@@ -49,7 +50,6 @@
 - [Популярные журналы и блоги](#популярные-журналы-и-блоги)
 
 ## Курсы
-Указана общая длительность видеокурса. Не забывайте, что можно смотреть с увеличенной скоростью.
 - Основы астрономии ([openedu.ru](https://openedu.ru/course/msu/BASTRO/), Межфакультетский курс МГУ)
 - ⭐️ [Курсы лекций Сергея Попова](http://xray.sai.msu.ru/~polar/sci_rev/pop2/popov/)
   - Астрофизика (19,7 часов, [teach-in.ru](https://teach-in.ru/course/astrophysics) или [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNC6itqocLoYFMNtt6nHwTBG), ФизФак МГУ)
@@ -149,12 +149,15 @@
   - [Астрономия для любителей](http://www.astrotime.ru/forum/)
   - [Хабр Q&A по космосу](https://qna.habr.com/tag/космос/questions)
   - [Хабр Q&A по астрономии](https://qna.habr.com/tag/астрономия/questions)
+  - [Alpha Centauri](https://t.me/alphacentaurichannel) — чат в Telegram, ассоциированный с одноименным YouTube-каналом.
 - Англоязычные:
   - ⭐️ [Space Exploration Stack Exchange](https://space.stackexchange.com/) — Как StackOverflow, только о космосе.
-  - [/r/Astronomy](https://old.reddit.com/r/Astronomy/) — Астрономия на Reddit.
-  - [/r/astrophysics/](https://old.reddit.com/r/astrophysics/) — Астрофизика на Reddit.
-  - [/r/askastronomy](https://old.reddit.com/r/askastronomy/) — Вопросы про астрономию на Reddit.
   - [Isaac Arthur](https://www.isaacarthur.net/forum/) — Форум футуриста Айзека Артура.
+  - Reddit:
+    - [/r/Astronomy](https://old.reddit.com/r/Astronomy/) — Астрономия.
+    - [/r/astrophysics](https://old.reddit.com/r/astrophysics/) — Астрофизика.
+    - [/r/askastronomy](https://old.reddit.com/r/askastronomy/) — Вопросы про астрономию.
+    - [/r/telescopes](https://www.reddit.com/r/telescopes/) — Телескопы.
 
 ## Популярные журналы и блоги
 - YouTube:
@@ -170,20 +173,20 @@
   - SciShow Space ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/scishowspace))
   - Dr. Becky ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/DrBecky)) — Dr. Becky Smethurst, астрофизик из Оксфорда, записывает видео по астрономическим темам, делает обзоры новостей (Night Sky News) и в целом говорит о своей профессиональной жизни.
   - Космос Просто ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE)) — Андрей Кузнецов простым языком рассказывает о различных астрономических явлениях и открытиях, а также регулярно обозревает новости (Астрообзор).
-  - Alpha Centauri ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/AlphaCentauriChannel)) — Рассказывают про космонавтику: делают регулярные новостные обзоры (КосмоДайджест), трансляции запусков/испытаний/etc., озвучку и другие видео на космическую тематику.
+  - Alpha Centauri ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/AlphaCentauriChannel) [![Telegram](img/favicons/t.me.png)](https://t.me/alphacentaurichannel)) — Рассказывают про космонавтику: делают регулярные новостные обзоры (КосмоДайджест), трансляции запусков/испытаний/etc., озвучку и другие видео на космическую тематику.
   - Astro Channel ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/AstroSmit)) — Александр Смирнов фокусируется на наблюдательной астрономии (затмения, метеорные потоки, сближения и проч.), а также делает выпуски по разным асторономическим темам. 
+  - Night Lights Films ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/NightLightsFilms)) — Таймлапсы ночного неба.
 
 - [Хаб на Хабре по астрономии](https://habr.com/ru/hub/astronomy/)
 - [Хаб на Хабре по космонавтике](https://habr.com/ru/hub/space/)
 - ⭐️ AstroAlert ([![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astroalert))
-- #ВКосмосе ([![Vk](img/favicons/vk.com.png)](https://vk.com/space))
 - Открытый космос ([![Vk](img/favicons/vk.com.png)](https://vk.com/space_live) [![Telegram](img/favicons/t.me.png)](https://t.me/ruspacelive) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ruspacelive/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ruspacelive) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/RuSpaceLive))
-- [Астроверты](https://astrovert.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/astrovert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/science.travel/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astrovert.ru))
-- [Зеленый кот](https://zelenyikot.com/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/zelenyi_koteyka) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/zelenyikotspacediscovery) [![Telegram](img/favicons/t.me.png)](https://t.me/zelenyikotspace))
-- ⭐️ [Сергей Борисович Попов](http://xray.sai.msu.ru/~polar/sci_rev/pop2/popov/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/id6382040) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGk5wyYgpGKuu5Wkjg0WIzQ) [![ЖЖ](img/favicons/livejournal.com.png)](https://sergepolar.livejournal.com/))
-- Записки астронома ([![Telegram](img/favicons/t.me.png)](https://t.me/astrozapiski))
-- Маша и Медведица ([![Telegram](img/favicons/t.me.png)](https://t.me/astromasha))
-- [BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/)
+- [Астроверты](https://astrovert.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/astrovert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/science.travel/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astrovert.ru)) — Клуб научных путешествий. Организуют путешествия на наблюдение метеорных дождей, полярных сияний, соединения планет.
+- ⭐️ [Зеленый кот](https://zelenyikot.com/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/zelenyi_koteyka) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/zelenyikotspacediscovery) [![Telegram](img/favicons/t.me.png)](https://t.me/zelenyikotspace) [![ЖЖ](img/favicons/livejournal.com.png)](https://zelenyikot.livejournal.com/)) — Виталий Егоров, журналист и популяризатор науки.
+- ⭐️ [Сергей Борисович Попов](http://xray.sai.msu.ru/~polar/sci_rev/pop2/popov/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/id6382040) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGk5wyYgpGKuu5Wkjg0WIzQ) [![ЖЖ](img/favicons/livejournal.com.png)](https://sergepolar.livejournal.com/)) — Российский ученый-астрофизик и популяризатор науки, доктор физико-математических наук, ведущий научный сотрудник Государственного астрономического института им. П. К. Штернберга, Профессор РАН.
+- Записки астронома ([![Telegram](img/favicons/t.me.png)](https://t.me/astrozapiski)) — Артём Новичонок пишет об астрономии и астрономических наблюдениях.
+- Маша и Медведица ([![Telegram](img/favicons/t.me.png)](https://t.me/astromasha)) — Мария Николаевна работает в Петербургском Планетарии №0, читает лекции в Обсерватории и Звездном зале, охотится за звездами и сияниями.
+- [BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/) — Британский ежемесячный журнал, направленный на астрономов-любителей.
 - [Sky & Telescope](https://skyandtelescope.org/) — Американский ежемесячный научно-популярный о любительской астрономии.
 - [Into The Night Photography](https://intothenightphoto.blogspot.com/) — Фотограф Royce Bair дает советы по фотографированию Млечного Пути.
 - Астрофотография:
@@ -192,6 +195,7 @@
   - Michael Jäger ([![Twitter](img/favicons/twitter.com.png)](https://twitter.com/Komet123Jager))
   - [Bart Delsaert – Astrophotography](https://delsaert.com/)
   - [/r/astrophotography](https://old.reddit.com/r/astrophotography/)
+  - [/r/spaceporn](https://www.reddit.com/r/spaceporn/)
 - Мемы:
   - какие-то астрофизические мемы ([![Vk](img/favicons/vk.com.png)](https://vk.com/atrphy))
   - кеки ран ([![Vk](img/favicons/vk.com.png)](https://vk.com/keki_ran))
