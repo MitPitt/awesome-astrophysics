@@ -109,6 +109,7 @@
     - [The New World Atlas of Artificial Sky Brightness](https://cires.colorado.edu/artificial-sky)
 - [Windy](https://www.windy.com/) — Глобальная карта ветра, осадков и кучи других показателей.
 - [Яндекс.Погода](https://yandex.ru/pogoda/moscow/maps/nowcast) — Карта осадков в настоящем времени.
+- [TimeAndDate](https://www.timeanddate.com/astronomy/) — Очень качественная визуализация и обширная информация по [затмениям](https://www.timeanddate.com/eclipse/), [метеорным потокам](https://www.timeanddate.com/astronomy/meteor-shower/) и [видимым на небе объектам](https://www.timeanddate.com/astronomy/night/). 
 - Полезные статьи:
   - [Как любители делают космос частью повседневности](https://syg.ma/@sygma/kak-liubitieli-dielaiut-kosmos-chastiu-povsiednievnoi-zhizni-i-vozvrashchaiut-v-niegho-miechtu)
   - [Set up a Raspberry Pi meteor detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/)
@@ -139,6 +140,7 @@
 - [Global Meteor Network](https://globalmeteornetwork.org/) — Общественный проект по созданию глобальной сети наблюдения ночного неба.
 - [Planet Hunters](http://planethunters.org/) — Помогайте открывать новые экзопланеты исследуя данные телескопа Kepler.
 - [Planet Four](http://www.planetfour.org/) — Помогайте исследовать климат Марса размечая фотографии его поверхности.
+- [Zooniverse](https://www.zooniverse.org/projects?discipline=astronomy&page=1&status=live) — Широкий список задач гражданской науки в астрономии: от разметки рельефа Марса до классификации галактик.
 
 ## Онлайн сообщества
 - Русскоязычные:
@@ -166,6 +168,11 @@
   - Cool Worlds ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/CoolWorldsLab))
   - ScienceClic English ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/ScienceClicEN))
   - SciShow Space ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/scishowspace))
+  - Dr. Becky ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/DrBecky)) — Dr. Becky Smethurst, астрофизик из Оксфорда, записывает видео по астрономическим темам, делает обзоры новостей (Night Sky News) и в целом говорит о своей профессиональной жизни.
+  - Космос Просто ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE)) — Андрей Кузнецов простым языком рассказывает о различных астрономических явлениях и открытиях, а также регулярно обозревает новости (Астрообзор).
+  - Alpha Centauri ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/AlphaCentauriChannel)) — Рассказывают про космонавтику: делают регулярные новостные обзоры (КосмоДайджест), трансляции запусков/испытаний/etc., озвучку и другие видео на космическую тематику.
+  - Astro Channel ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/AstroSmit)) — Александр Смирнов фокусируется на наблюдательной астрономии (затмения, метеорные потоки, сближения и проч.), а также делает выпуски по разным асторономическим темам. 
+
 - [Хаб на Хабре по астрономии](https://habr.com/ru/hub/astronomy/)
 - [Хаб на Хабре по космонавтике](https://habr.com/ru/hub/space/)
 - ⭐️ AstroAlert ([![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astroalert))
