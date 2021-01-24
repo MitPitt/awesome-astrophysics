@@ -140,7 +140,7 @@
 - [Global Meteor Network](https://globalmeteornetwork.org/) — Общественный проект по созданию глобальной сети наблюдения ночного неба.
 - [Planet Hunters](http://planethunters.org/) — Помогайте открывать новые экзопланеты исследуя данные телескопа Kepler.
 - [Planet Four](http://www.planetfour.org/) — Помогайте исследовать климат Марса размечая фотографии его поверхности.
-- [Zooniverse](https://www.zooniverse.org/projects?discipline=astronomy&page=1&status=live) — Широкий список задач гражданской науки в астрономии: от разметки рельефа Марса до классификации галактик.
+- ⭐️ [Zooniverse](https://www.zooniverse.org/projects?discipline=astronomy&page=1&status=live) — Широкий список задач гражданской науки в астрономии: от разметки рельефа Марса до классификации галактик.
 
 ## Онлайн сообщества
 - Русскоязычные:
@@ -188,12 +188,14 @@
 - Маша и Медведица ([![Telegram](img/favicons/t.me.png)](https://t.me/astromasha)) — Мария Николаевна работает в Петербургском Планетарии №0, читает лекции в Обсерватории и Звездном зале, охотится за звездами и сияниями.
 - [BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/) — Британский ежемесячный журнал, направленный на астрономов-любителей.
 - [Sky & Telescope](https://skyandtelescope.org/) — Американский ежемесячный научно-популярный о любительской астрономии.
-- [Into The Night Photography](https://intothenightphoto.blogspot.com/) — Фотограф Royce Bair дает советы по фотографированию Млечного Пути.
 - Астрофотография:
-  - Край Земли ([![Vk](img/favicons/vk.com.png)](https://vk.com/krai.zemli))
+  - ⭐️ [Край Земли](https://kraizemli.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/krai.zemli)) — Панорамы Дальнего Востока России.
+  - ⭐️ Астрофотография ([![Vk](img/favicons/vk.com.png)](https://vk.com/astrophotography)) — Астрофотография в России.
+  - NightSkyWorld ([![Vk](img/favicons/vk.com.png)](https://vk.com/night.sky.world)) — Астрофотография, а также статьи и советы по ней.
   - [Spaceweather Photo Gallery](https://spaceweathergallery.com/) — Фотографии космоса в настоящем времени, загружаемые пользователями. Во время крупных событий, таких как затмения и метеоритные дожди, фотографии появляются очень часто.
   - Michael Jäger ([![Twitter](img/favicons/twitter.com.png)](https://twitter.com/Komet123Jager))
   - [Bart Delsaert – Astrophotography](https://delsaert.com/)
+  - [Into The Night Photography](https://intothenightphoto.blogspot.com/) — Фотограф Royce Bair дает советы по фотографированию Млечного Пути.
   - [/r/astrophotography](https://old.reddit.com/r/astrophotography/)
   - [/r/spaceporn](https://www.reddit.com/r/spaceporn/)
 - Мемы:
