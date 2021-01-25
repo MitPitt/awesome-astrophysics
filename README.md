@@ -10,8 +10,8 @@
 ## Содержание
 - [Литература](#литература)
 - [Курсы](#курсы)
+- [Лектории и летние школы](#лектории-и-летние-школы)
 - [Высшее образование](#высшее-образование-академия)
-- [Лектории и музеи](#лектории-и-летние-школы)
 - [Организации](#организации)
 - [Астрономия](#астрономия)
 - [Визуализация](#визуализация)
@@ -50,10 +50,10 @@
 - [Популярные журналы и блоги](#популярные-журналы-и-блоги)
 
 ## Курсы
-- Основы астрономии ([openedu.ru](https://openedu.ru/course/msu/BASTRO/), Межфакультетский курс МГУ)
+- Основы астрономии ([openedu.ru](https://openedu.ru/course/msu/BASTRO/) // Межфакультетский курс МГУ)
 - ⭐️ [Курсы лекций Сергея Попова](http://xray.sai.msu.ru/~polar/sci_rev/pop2/popov/)
-  - Астрофизика (19,7 часов, [teach-in.ru](https://teach-in.ru/course/astrophysics) или [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNC6itqocLoYFMNtt6nHwTBG), ФизФак МГУ)
-- Астрофизика. От звезд до границ Вселенной. ([lektorium.tv](https://www.lektorium.tv/astrophysics), Политех Петра)
+  - Астрофизика (19,7 часов // [teach-in.ru](https://teach-in.ru/course/astrophysics) или [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNC6itqocLoYFMNtt6nHwTBG) // ФизФак МГУ)
+- Астрофизика. От звезд до границ Вселенной. ([lektorium.tv](https://www.lektorium.tv/astrophysics) // Политех Петра)
 - Crash Course Astronomy (9 часов, [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL))
 - Coursera (Когда записались на курс, можно выкачать его с помощью [Coursera Downloader](https://github.com/coursera-dl/coursera-dl)):
   - [Origins - Formation of the Universe, Solar System, Earth and Life](https://www.coursera.org/learn/origins-universe-solarsystem)
@@ -65,6 +65,15 @@
   - [The Science of the Solar System](https://www.coursera.org/learn/solar-system)
   - []
 
+## Лектории и летние школы
+- [Музей космонавтики](https://kosmo-museum.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/kosmo_museum) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mmkspace/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/kosmomuseum))
+- [Летняя космическая школа](https://space-school.org/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/summer_space_school) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/SummerSpaceSchool))
+- [Астрофизическая школа](https://www.astroschool.space/) от [фонда "Траектория"](https://www.traektoriafdn.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/traektoriafdn) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/%D0%A4%D0%BE%D0%BD%D0%B4%D0%A2%D1%80%D0%B0%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F))
+  - Цикл лекций "Физические основы астрономии". Бирюков Антон (2017) (8,5 часов // [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLfCxO0RvosYah1jMyraIWkrm1wCyIQndp))
+  - Зимняя школа юного астронома (2017-2018) (16 часов // [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLfCxO0RvosYY2DUqUvdMKo68ckwFZ4oi3))
+  - Учителю астрономии ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLfCxO0RvosYZGYDJvRp0v2eUSipVCv1LD))
+  - Научный экспресс ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLfCxO0RvosYZgGm_i7exJeENu6peUilNI))
+
 ## Высшее образование, Академия
 - [Факультет космических исследований МГУ](https://cosmos.msu.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/cosmos_msu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmAoZPccJssuT7JhX2MKFnA) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/cosmos.msu/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cosmos.msu/))
 - [Физический факультет МГУ](https://phys.msu.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/ff_mgu)) Астрономическое отделение
@@ -72,11 +81,6 @@
 - Кафедра Космической физики МФТИ
 - МатМех СПбГУ, Астрономическое направление (https://school.astro.spbu.ru)
 - ФизФак ВШЭ
-
-## Лектории и летние школы
-- [Музей космонавтики](https://kosmo-museum.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/kosmo_museum) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mmkspace/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/kosmomuseum))
-- [Летняя космическая школа](https://space-school.org/)
-- Фонд "Траектория" ([![Vk](img/favicons/vk.com.png)](https://vk.com/traektoriafdn) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/%D0%A4%D0%BE%D0%BD%D0%B4%D0%A2%D1%80%D0%B0%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F))
 
 ## Организации
 - [Роскосмос](https://www.roscosmos.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/roscosmos) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/roscosmosofficial/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/tvroscosmos) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/roscosmos))
@@ -120,7 +124,7 @@
 - ⭐️ [Universe Sandbox](http://universesandbox.com/) ([steam](https://store.steampowered.com/app/230290/)) — Игра-песочница. Можно реалистично моделировать гравитацию, столкновения космических объектов, их эволюцию.
 - ⭐️ [Space Engine](http://spaceengine.org/) ([steam](https://store.steampowered.com/app/314650/SpaceEngine/)) — Фотореалистичный 3D-планетарий всей вселенной.
 - [Cosmonium](https://github.com/cosmonium/cosmonium) ([скриншоты](https://github.com/cosmonium/cosmonium/wiki/Screenshots)) — 3D-визуализация космоса.
-- [Celestia ](https://celestia.space/) — 3D-визуализация космоса.
+- [Celestia](https://celestia.space/) — 3D-визуализация космоса.
 - [Stellarium](https://stellarium.org/) ([веб-версия](https://stellarium-web.org/)) — Виртуальный планетарий.
 - [Skybolt Engine](https://github.com/Piraxus/Skybolt) ([демонстрация](https://www.youtube.com/watch?v=pT8iFGkxcpA)) — Движок на C++ для визуализации планетарной среды Земли с большой детализацией.
 - [spacekit.js](https://typpo.github.io/spacekit/) — Движок на JavaScript для создания интерактивных космических визуализаций.
