@@ -76,6 +76,7 @@
 ## Лектории и летние школы
 - [Музей космонавтики](https://kosmo-museum.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/kosmo_museum) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mmkspace/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/kosmomuseum))
 - [Летняя космическая школа](https://space-school.org/)
+- Фонд "Траектория" ([![Vk](img/favicons/vk.com.png)](https://vk.com/traektoriafdn) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/%D0%A4%D0%BE%D0%BD%D0%B4%D0%A2%D1%80%D0%B0%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F))
 
 ## Организации
 - [Роскосмос](https://www.roscosmos.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/roscosmos) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/roscosmosofficial/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/tvroscosmos) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/roscosmos))
