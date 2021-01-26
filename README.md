@@ -204,8 +204,9 @@
   - Astro Channel ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/AstroSmit)) — Александр Смирнов фокусируется на наблюдательной астрономии (затмения, метеорные потоки, сближения и проч.), а также делает выпуски по разным асторономическим темам. 
   - Night Lights Films ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/NightLightsFilms)) — Таймлапсы ночного неба.
 
-- [Хаб на Хабре по астрономии](https://habr.com/ru/hub/astronomy/)
-- [Хаб на Хабре по космонавтике](https://habr.com/ru/hub/space/)
+- Хаб на Хабре [по астрономии](https://habr.com/ru/hub/astronomy/) и [по космонавтике](https://habr.com/ru/hub/space/)
+- Разделы на ПостНауке [по астрономии](https://postnauka.ru/themes/astronomy) и [по астрофизике](https://postnauka.ru/themes/astrofizika)
+- Рубрика ["астрономия"](https://nplus1.ru/rubric/astronomy) в N+1
 - ⭐️ AstroAlert ([![Vk](img/favicons/vk.com.png)](https://vk.com/astro.nomy) [![Telegram](img/favicons/t.me.png)](https://t.me/astroalert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/astroalert_info) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astroalert))
 - Открытый космос ([![Vk](img/favicons/vk.com.png)](https://vk.com/space_live) [![Telegram](img/favicons/t.me.png)](https://t.me/ruspacelive) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ruspacelive/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ruspacelive) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/RuSpaceLive))
 - [Астроверты](https://astrovert.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/astrovert) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/science.travel/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/astrovert.ru)) — Клуб научных путешествий. Организуют путешествия на наблюдение метеорных дождей, полярных сияний, соединения планет.
