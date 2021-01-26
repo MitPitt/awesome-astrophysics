@@ -68,6 +68,14 @@
 - Астрофизика. От звезд до границ Вселенной. ([lektorium.tv](https://www.lektorium.tv/astrophysics) // Политех Петра)
 - Crash Course Astronomy (9 часов, [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL))
 - Фоксфордовский курс по астрономии от ЦМПК
+- ⭐️ ПостНаука:
+  - [Краткая история вселенной](https://postnauka.ru/courses/89094) — Все самое главное об устройстве Вселенной, жизни звезд и реликтовом излучении.
+  - [Внегалактическая астрономия](https://postnauka.ru/courses/23495) — 7 лекций об изучении далеких объектов, находящихся за пределами нашей звездной системы, отобранных Анатолием Засовым.
+  - [Экзопланеты](https://postnauka.ru/courses/46100) — 12 лекций астрофизика Сергея Попова об исследованиях планет, обращающихся вокруг других звезд.
+  - [Звездная астрономия](https://postnauka.ru/courses/43956) — 8 лекций астронома Алексея Расторгуева о звездном населении галактик и процессах, в них происходящих.
+  - [Реликтовое излучение](https://postnauka.ru/courses/93594) — Курс астрофизика Олега Верходанова, посвященный главному источнику наших знаний о Вселенной.
+  - [Нейтронные звезды и черные дыры](https://postnauka.ru/courses/17745) — 13 лекций о физике компактных объектов, отобранных астрофизиком Сергеем Поповым.
+  - [Краткая история Земли](https://postnauka.ru/courses/91966) (гид) — Как развивалась история Земли, как появились вулканы и океаны.
 - Coursera (Когда записались на курс, можно выкачать его с помощью [Coursera Downloader](https://github.com/coursera-dl/coursera-dl)):
   - [Origins - Formation of the Universe, Solar System, Earth and Life](https://www.coursera.org/learn/origins-universe-solarsystem)
   - [Confronting The Big Questions: Highlights of Modern Astronomy](https://www.coursera.org/learn/astronomy)
