@@ -112,6 +112,7 @@
 - [Earth Sky](http://earthsky.org/) — Статьи про проходящие астрономические события и как их увидеть.
 - [Comet Chasing](https://cometchasing.skyhound.com/) — Какие сейчас можно увидеть кометы и где.
 - [Astropanel](https://isene.org/2020/12/Astropanel.html) — Астрономическая программа для терминала. Поможет выбрать время для вылазки с телескопом.
+- [30-минутный прогноз полярных сияний](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast) от NOAA.
 - Световое загрязнение:
   - [Статья в Википедии](https://ru.wikipedia.org/wiki/Световое_загрязнение)
   - [International Dark Sky Association](https://www.darksky.org/) — Информация про световое загрязнение, его эффекты, и как его можно уменьшить.
@@ -205,7 +206,9 @@
   - ⭐️ Астрофотография ([![Vk](img/favicons/vk.com.png)](https://vk.com/astrophotography)) — Астрофотография в России.
   - NightSkyWorld ([![Vk](img/favicons/vk.com.png)](https://vk.com/night.sky.world)) — Астрофотография, а также статьи и советы по ней.
   - [Spaceweather Photo Gallery](https://spaceweathergallery.com/) — Фотографии космоса в настоящем времени, загружаемые пользователями. Во время крупных событий, таких как затмения и метеоритные дожди, фотографии появляются очень часто.
+  - ⭐️ [NASA Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) — Каждый день новая фотография нашей увлекательной вселенной, а также краткое объяснение, написанное профессиональным астрономом. [Начиная с 1995-го года](https://apod.nasa.gov/apod/calendar/allyears.html).
   - Michael Jäger ([![Twitter](img/favicons/twitter.com.png)](https://twitter.com/Komet123Jager))
+  - Yuri Beletsky ([![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/yuribeletsky) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/YBeletsky)) — Астроном из обсерватории Лас-Кампанас в Чили, "Nightscape photographer", делает снимки удивительной красоты.
   - [Bart Delsaert – Astrophotography](https://delsaert.com/)
   - [Into The Night Photography](https://intothenightphoto.blogspot.com/) — Фотограф Royce Bair дает советы по фотографированию Млечного Пути.
   - [/r/astrophotography](https://old.reddit.com/r/astrophotography/)
