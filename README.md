@@ -25,35 +25,41 @@
 ---
 
 ## Литература
-- "Расширяя границы вселенной: История астрономии в задачах" Е.Б. Гусев, В.Г. Сурдин ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Расширяя%20границы%20вселенной%20История%20астрономии%20в%20задачах%20Е.Б.%20Гусев%20В.Г.%20Сурдин.pdf))
-- "Fundamental Astronomy" Hannu Karttunen ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Fundamental%20Astronomy%20Hannu%20Karttunen.pdf))
-- "Общая Астрофизика" К.А. Постнов, А.В. Засов ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Общая%20астрофизика%20А.В.%20Засов%20К.А.%20Постнов.pdf))
-- "Общий Курс Астрономии" Э.В. Кононович, В.И. Мороз ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Общий%20курс%20астрономии%20Э.В.%20Кононович%20В.И.%20Мороз.pdf))
-- "Сферическая Астрономия" В.А. Жаров ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Сферическая%20астрономия%20В.А.%20Жаров.pdf))
-- "Физика космоса. Маленькая энциклопедия" (Второе издание) ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Физика%20космоса%20Маленькая%20энциклопедия.pdf))
-- "Астрономические задачи с решениями" В.Г. Сурдин ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Астрономические%20задачи%20с%20решениями%20В.Г.%20Сурдин.pdf))
-- "Сборник задач и практических упражнений по астрономии" Б.А.Воронцов-Вельяминов ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Сборник%20задач%20и%20практических%20упражнений%20по%20астрономии%20Б.А.%20Воронцов-Вельяминов.pdf))
-- "Сборник задач по астрономии" М.М. Дагаев ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Сборник%20задач%20по%20астрономии%20М.М.%20Дагаев.pdf))
-- "Черные дыры, белые карлики и нейтронные звезды. Физика компактных объектов" С. Шапиро, С. Тьюколски (pdf [том 1](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Библия%20компактных%20объектов%201.pdf), [том 2](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Библия%20компактных%20объектов%202.pdf))
-- "Гравитация" Ч. Мизнер, К. Торн, Дж. Уилер (pdf [том 1](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Гравитация%201%20Мизнер%20Торн%20Уилер.pdf), [том 2](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Гравитация%202%20Мизнер%20Торн%20Уилер.pdf), [том 3](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Гравитация%203%20Мизнер%20Торн%20Уилер.pdf))
-- "Modern Classical Physics" Kip S. Thorne
-- ["Astronomy Notes" Nick Strobel](http://www.astronomynotes.com/#details)
-- [Электронная библиотека по астрономии Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/astronomiya)
-- Научные статьи:
-  - [arXiv](https://arxiv.org/archive/astro-ph) по астрофизике
-  - [AIAA Journal of Guidance, Control and Dynamics](http://arc.aiaa.org/loi/jgcd)
-  - [AIAA Journal of Spacecraft and Rockets](http://arc.aiaa.org/loi/jsr)
-  - [Icarus](http://www.sciencedirect.com/science/journal/00191035)
-  - [Journal of the Astronautical Sciences](http://link.springer.com/journal/40295)
-  - [Planetary and Space Science](http://www.journals.elsevier.com/planetary-and-space-science/)
-  - [Acta Astronautica](http://www.sciencedirect.com/science/journal/00945765)
-  - [Astronomy and Astrophysics](https://www.aanda.org/)
-  - [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X)
-  - [The Astrophysical Journal Supplement](https://iopscience.iop.org/journal/0067-0049)
-  - [The Astronomical Journal](https://iopscience.iop.org/journal/1538-3881)
-  - [The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338)
-  - [Ученые записки Физического факультета МГУ](http://uzmu.phys.msu.ru/)
 - [Популярные журналы и блоги](#популярные-журналы-и-блоги)
+
+- Для школьников:
+  - "Астрономические задачи с решениями" В.Г. Сурдин ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Астрономические%20задачи%20с%20решениями%20В.Г.%20Сурдин.pdf))
+  - "Сборник задач и практических упражнений по астрономии" Б.А.Воронцов-Вельяминов ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Сборник%20задач%20и%20практических%20упражнений%20по%20астрономии%20Б.А.%20Воронцов-Вельяминов.pdf))
+  - "Сборник задач по астрономии" М.М. Дагаев ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Сборник%20задач%20по%20астрономии%20М.М.%20Дагаев.pdf))
+  - [Электронная библиотека по астрономии Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/astronomiya)
+
+- Для продвинутых школьников и младшекурсников:
+  - "Расширяя границы вселенной: История астрономии в задачах" Е.Б. Гусев, В.Г. Сурдин ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Расширяя%20границы%20вселенной%20История%20астрономии%20в%20задачах%20Е.Б.%20Гусев%20В.Г.%20Сурдин.pdf))
+  - "Fundamental Astronomy" Hannu Karttunen ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Fundamental%20Astronomy%20Hannu%20Karttunen.pdf))
+  - "Общая Астрофизика" К.А. Постнов, А.В. Засов ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Общая%20астрофизика%20А.В.%20Засов%20К.А.%20Постнов.pdf))
+  - "Общий Курс Астрономии" Э.В. Кононович, В.И. Мороз ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Общий%20курс%20астрономии%20Э.В.%20Кононович%20В.И.%20Мороз.pdf))
+  - "Сферическая Астрономия" В.А. Жаров ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Сферическая%20астрономия%20В.А.%20Жаров.pdf))
+  - "Физика космоса. Маленькая энциклопедия" (Второе издание) ([pdf](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Физика%20космоса%20Маленькая%20энциклопедия.pdf))
+  - "Черные дыры, белые карлики и нейтронные звезды. Физика компактных объектов" С. Шапиро, С. Тьюколски (pdf [том 1](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Библия%20компактных%20объектов%201.pdf), [том 2](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Библия%20компактных%20объектов%202.pdf))
+  - "Гравитация" Ч. Мизнер, К. Торн, Дж. Уилер (pdf [том 1](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Гравитация%201%20Мизнер%20Торн%20Уилер.pdf), [том 2](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Гравитация%202%20Мизнер%20Торн%20Уилер.pdf), [том 3](https://github.com/MitPitt/awesome-astrophysics/blob/main/books/Гравитация%203%20Мизнер%20Торн%20Уилер.pdf))
+  - "Modern Classical Physics" Kip S. Thorne
+  - ["Astronomy Notes" Nick Strobel](http://www.astronomynotes.com/#details)
+
+- Для старшекурсников:
+  - Научные статьи:
+    - [arXiv](https://arxiv.org/archive/astro-ph) по астрофизике
+    - [AIAA Journal of Guidance, Control and Dynamics](http://arc.aiaa.org/loi/jgcd)
+    - [AIAA Journal of Spacecraft and Rockets](http://arc.aiaa.org/loi/jsr)
+    - [Icarus](http://www.sciencedirect.com/science/journal/00191035)
+    - [Journal of the Astronautical Sciences](http://link.springer.com/journal/40295)
+    - [Planetary and Space Science](http://www.journals.elsevier.com/planetary-and-space-science/)
+    - [Acta Astronautica](http://www.sciencedirect.com/science/journal/00945765)
+    - [Astronomy and Astrophysics](https://www.aanda.org/)
+    - [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X)
+    - [The Astrophysical Journal Supplement](https://iopscience.iop.org/journal/0067-0049)
+    - [The Astronomical Journal](https://iopscience.iop.org/journal/1538-3881)
+    - [The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338)
+    - [Ученые записки Физического факультета МГУ](http://uzmu.phys.msu.ru/)
 
 ## Курсы
 - Основы астрономии ([openedu.ru](https://openedu.ru/course/msu/BASTRO/) // Межфакультетский курс МГУ)
@@ -95,7 +101,7 @@
 - [СПУТНИКС](https://sputnix.ru) ([![Vk](img/favicons/vk.com.png)](https://vk.com/sputnixru)) — Российская частная компания-производитель высокотехнологичных спутниковых компонент и технологий для малых космических аппаратов, а также сервисов на их основе.
 - [АО «НПО Лавочкина»](https://www.laspace.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/laspace))
 - [NASA](https://www.nasa.gov/index.html) ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nasa/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nasa) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/NASA/))
-- [ESA](https://www.esa.int/) ()
+- [ESA](https://www.esa.int/) ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCIBaDdAbGlFDeS33shmlD0A) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/esa) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/europeanspaceagency/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/EuropeanSpaceAgency/))
 - [SpaceX](https://www.spacex.com/) ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/spacex) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/spacex/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/spacenewsx/))
 - [Minor Planet Center](https://minorplanetcenter.net/) — Собирает и систематизирует данные наблюдений малых тел Солнечной системы, в том числе комет, вычисляет их орбиты и публикует эту информацию в циркуляре малых планет. Она поддерживает бесплатные онлайн-сервисы для наблюдателей, чтобы помочь им в наблюдении малых планет и комет. Полный каталог орбит малых планет (MPCORB) может быть свободно загружен.
 - Эксперименты и телескопы:
