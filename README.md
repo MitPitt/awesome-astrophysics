@@ -137,6 +137,7 @@
 - [Windy](https://www.windy.com/) — Глобальная карта ветра, осадков и кучи других показателей.
 - [Яндекс.Погода](https://yandex.ru/pogoda/moscow/maps/nowcast) — Карта осадков в настоящем времени.
 - [TimeAndDate](https://www.timeanddate.com/astronomy/) — Очень качественная визуализация и обширная информация по [затмениям](https://www.timeanddate.com/eclipse/), [метеорным потокам](https://www.timeanddate.com/astronomy/meteor-shower/) и [видимым на небе объектам](https://www.timeanddate.com/astronomy/night/). 
+- [Allsky Camera](https://github.com/thomasjacquin/allsky) (+[статья](https://www.instructables.com/Wireless-All-Sky-Camera/)) — Соберите фишай-камеру на все небо с помощью Raspberry Pi
 - Полезные статьи:
   - [Как любители делают космос частью повседневности](https://syg.ma/@sygma/kak-liubitieli-dielaiut-kosmos-chastiu-povsiednievnoi-zhizni-i-vozvrashchaiut-v-niegho-miechtu)
   - [Set up a Raspberry Pi meteor detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/)
@@ -151,6 +152,11 @@
 - [Skybolt Engine](https://github.com/Piraxus/Skybolt) ([демонстрация](https://www.youtube.com/watch?v=pT8iFGkxcpA)) — Движок на C++ для визуализации планетарной среды Земли с большой детализацией.
 - [spacekit.js](https://typpo.github.io/spacekit/) — Движок на JavaScript для создания интерактивных космических визуализаций.
 - ⭐️ [Kerbal Space Program](https://www.kerbalspaceprogram.com/) ([steam](https://store.steampowered.com/app/220200/Kerbal_Space_Program/)) — Игра про менеджмент космической программы и проектирование космических суден.
+- Визуализации астрономических законов:
+  - [Introductory Astronomy Animations](https://zingale.github.io/astro_animations/)
+  - [Astro Interactives](https://juancab.github.io/AstroInteractives/) (Jupyter Notebook, интерактивные)
+  - [Astronomy Simulations and Animations](https://ccnmtl.github.io/astro-simulations/) (интерактивные)
+  
 
 ## Космические объекты
 - Марс:
