@@ -5,8 +5,6 @@
 
 ⭐️ = особые рекомендации
 
-❗️ Подпишите [петицию](https://www.change.org/p/государственная-дума-рф-против-поправок-о-просветительской-деятельности-1e6d7a97-a61a-49b9-a7a7-80da49172ccf) против закона о просветительской деятельности ❗️
-
 ## Содержание
 - [Литература](#литература)
 - [Курсы](#курсы)
@@ -138,7 +136,9 @@
 - [Яндекс.Погода](https://yandex.ru/pogoda/moscow/maps/nowcast) — Карта осадков в настоящем времени.
 - [TimeAndDate](https://www.timeanddate.com/astronomy/) — Очень качественная визуализация и обширная информация по [затмениям](https://www.timeanddate.com/eclipse/), [метеорным потокам](https://www.timeanddate.com/astronomy/meteor-shower/) и [видимым на небе объектам](https://www.timeanddate.com/astronomy/night/). 
 - [Allsky Camera](https://github.com/thomasjacquin/allsky) (+[статья](https://www.instructables.com/Wireless-All-Sky-Camera/)) — Соберите фишай-камеру на все небо с помощью Raspberry Pi
+- [OpenAstroTracker](https://openastrotech.com/) ([вики](https://wiki.openastrotech.com/en/OpenAstroTracker)) — Опенсорсный астротрекер на 3D-принтере
 - Полезные статьи:
+  - [Constructing a Barn-Door Tracker](https://www.astropix.com/bgda/sample2/sample2.html) — Как собрать супер дешевый астротрекер
   - [Как любители делают космос частью повседневности](https://syg.ma/@sygma/kak-liubitieli-dielaiut-kosmos-chastiu-povsiednievnoi-zhizni-i-vozvrashchaiut-v-niegho-miechtu)
   - [Set up a Raspberry Pi meteor detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/)
   - [So you want to be an astronomer...](https://old.reddit.com/r/Andromeda321/comments/fyjmpv/updated_so_you_want_to_be_an_astronomer/)
