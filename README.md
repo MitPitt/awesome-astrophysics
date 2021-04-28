@@ -93,7 +93,7 @@
   - Учителю астрономии ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLfCxO0RvosYZGYDJvRp0v2eUSipVCv1LD))
   - Научный экспресс ([![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLfCxO0RvosYZgGm_i7exJeENu6peUilNI))
 
-## Высшее образование, Академия
+## Академия
 - [Факультет космических исследований МГУ](https://cosmos.msu.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/cosmos_msu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmAoZPccJssuT7JhX2MKFnA) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/cosmos.msu/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cosmos.msu/))
 - [Физический факультет МГУ](https://phys.msu.ru/) ([![Vk](img/favicons/vk.com.png)](https://vk.com/ff_mgu)) Астрономическое отделение
   - [ГАИШ](sai.msu.ru)
@@ -161,6 +161,7 @@
 ## Космические объекты
 - Марс:
   - [Марс и магнитосфера: планета, которую можно отремонтировать](https://habr.com/ru/post/536274/?utm_source=telegram&utm_medium=social&utm_campaign=/ru/post/536274/) — Про терраформацию Марса.
+  - [Mars26](https://mars26.com/) — Карта Марса в высоком разрешении и с открытым кодом.
 - Луна:
   - [Moon Phase and Libration](https://svs.gsfc.nasa.gov/4874) — Лунные фазы в высоком разрешении.
   - [Quickmap](https://quickmap.lroc.asu.edu/) — Подробная карта Луны со множеством настроек.
